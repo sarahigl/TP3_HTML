@@ -1,0 +1,11 @@
+caption{
+    color: black;
+}
+table{
+    border-color: black;
+    border-collapse: collapse ;
+    border-width: 10px;
+}
+td, th{
+    border: black solid;
+}
